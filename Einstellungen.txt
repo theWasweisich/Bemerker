@@ -1,0 +1,4 @@
+Hier können Sie Einstellungen vornehmen:
+
+# Zeit, zwischen Bemerkungen (in Sekunden):
+3
