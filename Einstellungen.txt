@@ -1,7 +1,4 @@
-  Hier können Sie Einstellungen vornehmen:
+Hier können Sie Einstellungen vornehmen:
 
-  Zeit, zwischen Bemerkungen (in Sekunden):
-900
-
-  Hier können Sie einstellen, was der Titel der Bemerkungen sein soll:
-Bemerker
+# Zeit, zwischen Bemerkungen (in Sekunden):
+3
