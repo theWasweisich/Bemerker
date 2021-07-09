@@ -1,10 +1,10 @@
-liste = ["Du siehst aber schön aus!
+Du siehst aber schön aus!
 Schick schick...
 Du siehst gut aus
 Du bist schön!
 Du bist wunderschön!
 Ich hab' noch nie was Schöneres gesehen!
 Woah!
-"Schick, schick, schick, muss man dir lassen!
+Schick, schick, schick, muss man dir lassen!
 Beeindruckend!
 Du bist echt phänomenal
