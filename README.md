@@ -27,4 +27,4 @@ Vielen Dank, dass Sie mein Bemerkerprogramm benutzen!
 	<li> Gehen Sie in eine neue Zeile, um eine weitere Bemerkung zu notieren. </li>
 </ol>
 <p>Wenn Sie die Schritte 2 und 3 öfter befolgen, können Sie mehrere Bemerkungen notieren.
-<br></br>Aber nun wünsche ich ihnen viel Spaß!</p>
+<br></br>Aber nun wünsche ich Ihnen viel Spaß!</p>
